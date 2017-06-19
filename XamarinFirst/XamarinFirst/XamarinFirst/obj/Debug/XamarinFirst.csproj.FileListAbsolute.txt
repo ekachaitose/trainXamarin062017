@@ -20,3 +20,6 @@ E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\De
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page1.xaml.g.cs
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page2.xaml.g.cs
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page3.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.TabPage1.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.TabPage2.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.TabPage3.xaml.g.cs

@@ -12,8 +12,11 @@ namespace XamarinFirst
         public App()
         {
             InitializeComponent();
-
-            MainPage = new XamarinFirst.Page1();
+            var tp = new TabbedPage();
+            tp.Children.Add(new TabPage1());
+            tp.Children.Add(new TabPage2());
+            tp.Children.Add(new TabPage3());
+            MainPage = tp;
         }
 
         protected override void OnStart()
