@@ -13,5 +13,11 @@ namespace XamarinFirst
         {
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            myLabel.Text = myEntry.Text;
+        }
+
     }
 }
