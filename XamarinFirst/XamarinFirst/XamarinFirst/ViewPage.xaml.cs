@@ -16,6 +16,18 @@ namespace XamarinFirst
         {
             InitializeComponent();
             okButton.Clicked += OkButton_Clicked;
+            myEntry.TextChanged += MyEntry_TextChanged;
+           
+            var genders = new List<string>();
+            genders.Add("Male");
+            genders.Add("Female");
+            genderPicker.ItemsSource = genders;
+
+        }
+
+        private void MyEntry_TextChanged(object sender, TextChangedEventArgs e)
+        {
+           
         }
 
         private void OkButton_Clicked(object sender, EventArgs e)
