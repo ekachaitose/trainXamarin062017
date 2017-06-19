@@ -17,3 +17,6 @@ E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\De
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.GridPage.xaml.g.cs
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.csprojResolveAssemblyReference.cache
 E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.AbsolutePage.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page1.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page2.xaml.g.cs
+E:\TrainXamarin\trainXamarin062017\XamarinFirst\XamarinFirst\XamarinFirst\obj\Debug\XamarinFirst.Page3.xaml.g.cs
