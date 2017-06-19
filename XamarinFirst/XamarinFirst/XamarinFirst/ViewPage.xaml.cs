@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace XamarinFirst
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class ViewPage : ContentPage
+    {
+        public ViewPage()
+        {
+            InitializeComponent();
+            okButton.Clicked += OkButton_Clicked;
+        }
+
+        private void OkButton_Clicked(object sender, EventArgs e)
+        {
+            DisplayAlert("Title","Message","OK");
+        }
+    }
+}
